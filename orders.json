@@ -27,7 +27,7 @@
     "shipping": 25,
     "grand-total": 96.98,
     "status": "pending",
-    "date": '2021-12-26T15:31:13.335Z',
+    "date": "2021-12-26T15:31:13.335Z",
     "payment-method": "COD",
     "customer-id": 1,
     "customer": {
@@ -64,7 +64,7 @@
     "shipping": 12,
     "grand-total": 21.99,
     "status": "accepted",
-    "date": '2021-12-27T10:20:11.335Z',
+    "date": "2021-12-27T10:20:11.335Z",
     "payment-method": "COD",
     "customer-id": 7,
     "customer": {
@@ -101,7 +101,7 @@
     "shipping": 20,
     "grand-total": 326,
     "status": "shipped",
-    "date": '2021-12-27T11:40:12.335Z',
+    "date": "2021-12-27T11:40:12.335Z",
     "payment-method": "COD",
     "customer-id": 9,
     "customer": {
@@ -158,7 +158,7 @@
     "shipping": 25,
     "grand-total": 121.98,
     "status": "shipped",
-    "date": '2021-12-28T13:50:12.335Z',
+    "date": "2021-12-28T13:50:12.335Z",
     "payment-method": "COD",
     "customer-id": 7,
     "customer": {
